@@ -101,7 +101,7 @@ https://github.com/AY2526S2-CS2103T-T10-3/tp/tree/master
 **Product:** [HireShell](https://ay2526s2-cs2103t-t10-3.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2526S2-CS2103T-T10-4/tp/tree/master
-**Product:** [SoContact](https://ay2526s2-cs2103t-t10-4.github.io/tp)
+**Product:** [TAConnect](https://ay2526s2-cs2103t-t10-4.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2526S2-CS2103-T11-1/tp/tree/master
 **Product:** [CLInkedin](https://ay2526s2-cs2103-t11-1.github.io/tp)
@@ -122,7 +122,7 @@ https://github.com/AY2526S2-CS2103T-T12-2/tp/tree/master
 **Product:** [ClientEase](https://ay2526s2-cs2103t-t12-2.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2526S2-CS2103T-T12-3/tp/tree/master
-**Product:** [ClubHub](https://ay2526s2-cs2103t-t12-3.github.io/tp)
+**Product:** [InternLink](https://ay2526s2-cs2103t-t12-3.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2526S2-CS2103T-T12-4/tp/tree/master
 **Product:** [Food Bridge](https://ay2526s2-cs2103t-t12-4.github.io/tp)
@@ -155,7 +155,7 @@ https://github.com/AY2526S2-CS2103T-T15-1/tp/tree/master
 **Product:** [Hall Student Logbook](https://ay2526s2-cs2103t-t15-1.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2526S2-CS2103T-T15-2/tp/tree/master
-**Product:** [SpyGlass](https://ay2526s2-cs2103t-t15-2.github.io/tp)
+**Product:** [Spyglass](https://ay2526s2-cs2103t-t15-2.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2526S2-CS2103T-T15-3/tp/tree/master
 **Product:** [Tuto](https://ay2526s2-cs2103t-t15-3.github.io/tp)
