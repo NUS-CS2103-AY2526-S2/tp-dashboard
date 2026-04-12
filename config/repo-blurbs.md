@@ -104,7 +104,7 @@ https://github.com/AY2526S2-CS2103T-T10-4/tp/tree/master
 **Product:** [TAConnect](https://ay2526s2-cs2103t-t10-4.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2526S2-CS2103-T11-1/tp/tree/master
-**Product:** [CLInkedin](https://ay2526s2-cs2103-t11-1.github.io/tp)
+**Product:** [CLinkedin](https://ay2526s2-cs2103-t11-1.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2526S2-CS2103-T11-2/tp/tree/master
 **Product:** [CareContacts](https://ay2526s2-cs2103-t11-2.github.io/tp)
