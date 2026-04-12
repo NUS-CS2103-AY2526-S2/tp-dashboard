@@ -152,7 +152,7 @@ https://github.com/AY2526S2-CS2103T-T14-4/tp/tree/master
 **Product:** [TrackMasterPro](https://ay2526s2-cs2103t-t14-4.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2526S2-CS2103T-T15-1/tp/tree/master
-**Product:** [Hall Student Logbook](https://ay2526s2-cs2103t-t15-1.github.io/tp)
+**Product:** [Hall Ledger](https://ay2526s2-cs2103t-t15-1.github.io/tp)
 <!--repo-->------------------------------------
 https://github.com/AY2526S2-CS2103T-T15-2/tp/tree/master
 **Product:** [Spyglass](https://ay2526s2-cs2103t-t15-2.github.io/tp)
